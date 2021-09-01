@@ -1,4 +1,4 @@
-# 카카오톡 챗봇 with Python, Apache
+# 카카오톡 챗봇 with Django, Apache
 
 ## 개요
 https://github.com/HwanGonJang/ydp_alarm_with_kakaoApi
